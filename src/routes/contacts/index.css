@@ -1,0 +1,38 @@
+.container-0-2-1 {
+    background: black;
+}
+.section-white {
+    background-color: black;
+}
+.center3 {
+    text-align: center;
+    color:#02fbff;
+}
+.center{
+    text-align: center;
+}
+.row{
+  position: relative;
+  justify-content: center;
+}
+h1{
+    color:white
+  }
+  h2{
+    color:white
+  }
+  h3{
+    color:white
+  }
+  h4{
+    color:white
+  }
+  h5{
+    color:white
+  }
+  p{
+    color:white
+  }
+  li{
+    color:white
+  }
